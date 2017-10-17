@@ -1,2 +1,2 @@
 # Gui
-leader
+leader of this team is
